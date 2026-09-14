@@ -10,7 +10,7 @@ Pianist and software developer based in Montréal. I build tools for research, m
 
 ### [Orfeo — Page Turner](https://orfeoscore.com/)
 
-An iPad app bringing together page turning, an music library of 1.3 million sources, a fingering and and analyst engine, and a complete toolkit for exploring the score.
+An iPad app bringing together page turning, a music library of 1.3 million sources, a fingering and analysis engine, and a complete toolkit for exploring the score.
 
 ---
 
@@ -27,9 +27,5 @@ A scorekeeper for the tabletop game. Photograph the board, review the detected d
 An interactive prototype for exploring the anatomy of a piano. This is an early version; the model and interactions are still being refined.
 
 ---
-
-🤖 Agent orchestration system designed to coordinate 60 custom skills and rule and orchestrate hundreds of agents via multiple supervising orchestrator agents, with 60 custom skills and firewall gates. Built on GitHub-native practices (worktrees, umbrella issues tracking) and gh-bots that makes every agent and task easily trackable.
-
---- 
 
 Source repositories are private. The links above open the project sites and demos.
